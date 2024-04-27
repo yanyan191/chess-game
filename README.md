@@ -26,6 +26,8 @@ https://play.google.com/store/apps/details?id=com.jjpoker.app
 
 如有兴趣请咨询 jjpoker.gm@gmail.com ， gm@jjpoker.net
 
+售价30,000 USD，价格不合适勿扰, 服务范围：全部线上源码，1个月源码技术线上咨询。
+
 该邮箱也是JJPOKER官方运营联系邮箱
 
 Texas hold'em poker source code for sale
@@ -45,5 +47,7 @@ Server-side (python, c++)
 Some other online services (statistical background, automated operation background)
 
 If you are interested, please contact jjpoker.gm@gmail.com, gm@jjpoker.net
+
+The price is 30,000 USD. If the price is inappropriate, please don’t disturb me.
 
 This email is also the official operation contact email of JJPOKER
